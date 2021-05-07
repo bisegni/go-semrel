@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/bisegni/go-semrel/semrel"
 	"github.com/blang/semver"
-	"github.com/juranki/go-semrel/semrel"
 	"github.com/pkg/errors"
 	git "gopkg.in/src-d/go-git.v4"
 	"gopkg.in/src-d/go-git.v4/plumbing"
